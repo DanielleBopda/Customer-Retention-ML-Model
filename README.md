@@ -1,6 +1,4 @@
 
-
- origin/main
 # Customer Retention ML Model&#x20;
 
 ##  Project Overview
