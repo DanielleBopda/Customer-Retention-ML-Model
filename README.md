@@ -7,7 +7,7 @@ This project focuses on predicting **customer churn** in the telecommunications 
 
 ##  Objectives
 
-- Develop a \*\*Customer Retention ML Model \*\*using **KNN**.
+- Develop a \*\*Customer Retention ML Model using **KNN**.
 - Analyze key customer behaviors, service interactions, and contract duration.
 - Provide insights for effective customer retention campaigns.
 
